@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9002564F-DBE5-4E9D-B272-50B890E5D5FA}|ProyectoFinalRestaurante\\ProyectoFinalRestaurante.csproj|d:\\ejerciciosprog3\\proyectofinalrestaurante_grupo 10\\proyectofinalrestaurante\\elegirmodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9002564F-DBE5-4E9D-B272-50B890E5D5FA}|ProyectoFinalRestaurante\\ProyectoFinalRestaurante.csproj|solutionrelative:proyectofinalrestaurante\\elegirmodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002564F-DBE5-4E9D-B272-50B890E5D5FA}|ProyectoFinalRestaurante\\ProyectoFinalRestaurante.csproj|d:\\ejerciciosprog3\\proyectofinalrestaurante_grupo 10\\proyectofinalrestaurante\\elegirmodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002564F-DBE5-4E9D-B272-50B890E5D5FA}|ProyectoFinalRestaurante\\ProyectoFinalRestaurante.csproj|solutionrelative:proyectofinalrestaurante\\elegirmodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002564F-DBE5-4E9D-B272-50B890E5D5FA}|ProyectoFinalRestaurante\\ProyectoFinalRestaurante.csproj|d:\\ejerciciosprog3\\proyectofinalrestaurante_grupo 10\\proyectofinalrestaurante\\formeditarinfomesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9002564F-DBE5-4E9D-B272-50B890E5D5FA}|ProyectoFinalRestaurante\\ProyectoFinalRestaurante.csproj|solutionrelative:proyectofinalrestaurante\\formeditarinfomesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9002564F-DBE5-4E9D-B272-50B890E5D5FA}|ProyectoFinalRestaurante\\ProyectoFinalRestaurante.csproj|D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\proyectofinalrestaurante\\formeditarinfomesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9002564F-DBE5-4E9D-B272-50B890E5D5FA}|ProyectoFinalRestaurante\\ProyectoFinalRestaurante.csproj|solutionrelative:proyectofinalrestaurante\\formeditarinfomesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElegirModoForm.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\ProyectoFinalRestaurante\\ElegirModoForm.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalRestaurante\\ElegirModoForm.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\ProyectoFinalRestaurante\\ElegirModoForm.cs",
+              "RelativeToolTip": "ProyectoFinalRestaurante\\ElegirModoForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:11:29.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElegirModoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\ProyectoFinalRestaurante\\ElegirModoForm.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalRestaurante\\ElegirModoForm.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\ProyectoFinalRestaurante\\ElegirModoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinalRestaurante\\ElegirModoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:10:46.949Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormEditarInfoMesa.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\ProyectoFinalRestaurante\\FormEditarInfoMesa.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalRestaurante\\FormEditarInfoMesa.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\ProyectoFinalRestaurante\\FormEditarInfoMesa.cs",
+              "RelativeToolTip": "ProyectoFinalRestaurante\\FormEditarInfoMesa.cs",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAcwPUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:55:22.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEditarInfoMesa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\ProyectoFinalRestaurante\\FormEditarInfoMesa.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalRestaurante\\FormEditarInfoMesa.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\ProyectoFinalRestaurante_Grupo 10\\ProyectoFinalRestaurante\\FormEditarInfoMesa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinalRestaurante\\FormEditarInfoMesa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:46:34.921Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

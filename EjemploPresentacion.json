@@ -1,0 +1,574 @@
+[
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 397,
+      "Y": 629
+    },
+    "Tag": "silla individual",
+    "Ancho": 50,
+    "Alto": 39,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 666,
+      "Y": 622
+    },
+    "Tag": "silla individual",
+    "Ancho": 49,
+    "Alto": 49,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "Silla de grupo",
+    "Location": {
+      "X": 493,
+      "Y": 696
+    },
+    "Tag": "Silla de grupo",
+    "Ancho": 121,
+    "Alto": 44,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "Silla de grupo",
+    "Location": {
+      "X": 485,
+      "Y": 552
+    },
+    "Tag": "Silla de grupo",
+    "Ancho": 145,
+    "Alto": 49,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "Mesa Cuadrada 3",
+    "Location": {
+      "X": 454,
+      "Y": 615
+    },
+    "Tag": "Mesa Cuadrada ",
+    "Ancho": 198,
+    "Alto": 73,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":3,\"Estado\":\"Ocupada\",\"MozoEncargado\":\"No asignado\",\"HoraReserva\":\"2024-06-26T23:08:51.1275773-03:00\",\"HoraSalida\":\"2024-06-27T00:08:51.1278265-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":true,\"Elapsed\":\"00:00:20.4430969\",\"ElapsedMilliseconds\":20443,\"ElapsedTicks\":204430998}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "urinario",
+    "Location": {
+      "X": 1173,
+      "Y": 614
+    },
+    "Tag": "urinario",
+    "Ancho": 43,
+    "Alto": 48,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "lavabo",
+    "Location": {
+      "X": 976,
+      "Y": 612
+    },
+    "Tag": "lavabo",
+    "Ancho": 168,
+    "Alto": 43,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "inodoro",
+    "Location": {
+      "X": 1246,
+      "Y": 743
+    },
+    "Tag": "inodoro",
+    "Ancho": 47,
+    "Alto": 44,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "inodoro",
+    "Location": {
+      "X": 1246,
+      "Y": 680
+    },
+    "Tag": "inodoro",
+    "Ancho": 47,
+    "Alto": 46,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "inodoro",
+    "Location": {
+      "X": 1246,
+      "Y": 616
+    },
+    "Tag": "inodoro",
+    "Ancho": 47,
+    "Alto": 43,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "lavabo",
+    "Location": {
+      "X": 1004,
+      "Y": 351
+    },
+    "Tag": "lavabo",
+    "Ancho": 180,
+    "Alto": 40,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "inodoro",
+    "Location": {
+      "X": 1249,
+      "Y": 504
+    },
+    "Tag": "inodoro",
+    "Ancho": 44,
+    "Alto": 46,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "inodoro",
+    "Location": {
+      "X": 1249,
+      "Y": 425
+    },
+    "Tag": "inodoro",
+    "Ancho": 41,
+    "Alto": 48,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "inodoro",
+    "Location": {
+      "X": 1249,
+      "Y": 353
+    },
+    "Tag": "inodoro",
+    "Ancho": 42,
+    "Alto": 50,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "pared",
+    "Location": {
+      "X": 959,
+      "Y": 589
+    },
+    "Tag": "pared",
+    "Ancho": 338,
+    "Alto": 20,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "pared",
+    "Location": {
+      "X": 933,
+      "Y": 589
+    },
+    "Tag": "pared",
+    "Ancho": 27,
+    "Alto": 151,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "puertas",
+    "Location": {
+      "X": 934,
+      "Y": 521
+    },
+    "Tag": "puertas",
+    "Ancho": 25,
+    "Alto": 68,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "puertas",
+    "Location": {
+      "X": 933,
+      "Y": 737
+    },
+    "Tag": "puertas",
+    "Ancho": 25,
+    "Alto": 70,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "pared",
+    "Location": {
+      "X": 931,
+      "Y": 344
+    },
+    "Tag": "pared",
+    "Ancho": 30,
+    "Alto": 178,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":null,\"MozoEncargado\":null,\"HoraReserva\":null,\"HoraSalida\":null,\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "pared",
+    "Location": {
+      "X": 9,
+      "Y": 26
+    },
+    "Tag": "pared",
+    "Ancho": 40,
+    "Alto": 693,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143598-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143619-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "pared",
+    "Location": {
+      "X": 52,
+      "Y": 27
+    },
+    "Tag": "pared",
+    "Ancho": 1249,
+    "Alto": 39,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143625-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143625-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "puertas",
+    "Location": {
+      "X": 9,
+      "Y": 720
+    },
+    "Tag": "puertas",
+    "Ancho": 42,
+    "Alto": 86,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143629-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.814363-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "pared",
+    "Location": {
+      "X": 10,
+      "Y": 807
+    },
+    "Tag": "pared",
+    "Ancho": 1290,
+    "Alto": 32,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143639-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.814364-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "pared",
+    "Location": {
+      "X": 1300,
+      "Y": 28
+    },
+    "Tag": "pared",
+    "Ancho": 35,
+    "Alto": 811,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143648-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143649-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "divisores",
+    "Location": {
+      "X": 761,
+      "Y": 66
+    },
+    "Tag": "divisores",
+    "Ancho": 45,
+    "Alto": 280,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143652-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143653-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "puertas",
+    "Location": {
+      "X": 807,
+      "Y": 310
+    },
+    "Tag": "puertas",
+    "Ancho": 77,
+    "Alto": 36,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143656-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143656-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "pared",
+    "Location": {
+      "X": 883,
+      "Y": 309
+    },
+    "Tag": "pared",
+    "Ancho": 417,
+    "Alto": 35,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143659-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143659-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "Cocina",
+    "Location": {
+      "X": 841,
+      "Y": 70
+    },
+    "Tag": "Cocina",
+    "Ancho": 112,
+    "Alto": 48,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143661-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143662-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "Cocina",
+    "Location": {
+      "X": 956,
+      "Y": 72
+    },
+    "Tag": "Cocina",
+    "Ancho": 119,
+    "Alto": 45,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143665-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143665-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "lavadero grande",
+    "Location": {
+      "X": 1001,
+      "Y": 258
+    },
+    "Tag": "lavadero grande",
+    "Ancho": 169,
+    "Alto": 47,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143668-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143669-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "Heladera",
+    "Location": {
+      "X": 1187,
+      "Y": 256
+    },
+    "Tag": "Heladera",
+    "Ancho": 90,
+    "Alto": 51,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143672-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143679-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "Heladera",
+    "Location": {
+      "X": 1104,
+      "Y": 74
+    },
+    "Tag": "Heladera",
+    "Ancho": 175,
+    "Alto": 59,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143691-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143692-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "Mesa Redonda 1",
+    "Location": {
+      "X": 160,
+      "Y": 149
+    },
+    "Tag": "Mesa Redonda ",
+    "Ancho": 100,
+    "Alto": 100,
+    "Tipo": "RoundButton",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":1,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.814373-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143731-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 263,
+      "Y": 163
+    },
+    "Tag": "silla individual",
+    "Ancho": 63,
+    "Alto": 62,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143735-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143735-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 85,
+      "Y": 160
+    },
+    "Tag": "silla individual",
+    "Ancho": 54,
+    "Alto": 55,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143738-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143739-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 171,
+      "Y": 74
+    },
+    "Tag": "silla individual",
+    "Ancho": 56,
+    "Alto": 64,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143742-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143743-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 175,
+      "Y": 253
+    },
+    "Tag": "silla individual",
+    "Ancho": 53,
+    "Alto": 58,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143747-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143747-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "Mesa Cuadrada 2",
+    "Location": {
+      "X": 136,
+      "Y": 445
+    },
+    "Tag": "Mesa Cuadrada ",
+    "Ancho": 190,
+    "Alto": 71,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":2,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143763-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143764-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 169,
+      "Y": 524
+    },
+    "Tag": "silla individual",
+    "Ancho": 48,
+    "Alto": 49,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143766-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143767-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 261,
+      "Y": 385
+    },
+    "Tag": "silla individual",
+    "Ancho": 51,
+    "Alto": 50,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.814377-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.814377-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 78,
+      "Y": 454
+    },
+    "Tag": "silla individual",
+    "Ancho": 51,
+    "Alto": 55,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143774-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143775-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 341,
+      "Y": 447
+    },
+    "Tag": "silla individual",
+    "Ancho": 53,
+    "Alto": 52,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143777-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143778-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 171,
+      "Y": 383
+    },
+    "Tag": "silla individual",
+    "Ancho": 56,
+    "Alto": 52,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.814378-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143781-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  },
+  {
+    "Text": "silla individual",
+    "Location": {
+      "X": 260,
+      "Y": 524
+    },
+    "Tag": "silla individual",
+    "Ancho": 50,
+    "Alto": 55,
+    "Tipo": "System.Windows.Forms.Button",
+    "MesaInfo": "{\"Pagar\":0.0,\"NumeroMesa\":0,\"Estado\":\"Libre\",\"MozoEncargado\":\"No asignado \",\"HoraReserva\":\"2024-06-26T22:37:57.8143783-03:00\",\"HoraSalida\":\"2024-06-26T22:37:57.8143784-03:00\",\"Consumos\":[],\"Stopwatch\":{\"IsRunning\":false,\"Elapsed\":\"00:00:00\",\"ElapsedMilliseconds\":0,\"ElapsedTicks\":0}}",
+    "Total Mesas": 4
+  }
+]
